@@ -24,10 +24,15 @@ sudo dnf install imlib2-devel libX11-devel
 ```
 
 # screenshots
+<p align="center">
+        <img src="[https://linuxhint.com/wp-content/uploads/2022/01/function-in-Arduino-5.gif](https://raw.githubusercontent.com/Tomas-M/xlunch/Screenshot/screenshot.png)">
+</p>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/Tomas-M/xlunch/Screenshot/screenshot2.png">
+</p>
 
-![Screenshot](/../Screenshot/screenshot.png?raw=true "Screenshot")
-
-![Screenshot](/../Screenshot/screenshot2.png?raw=true "Screenshot")
 
 Version 3 of xlunch added a lot of customization options, here are some of them in use:
-![Screenshot](/../Screenshot/screenshot3.png?raw=true "Screenshot")
+<p align="center">
+        <img src="https://raw.githubusercontent.com/Tomas-M/xlunch/Screenshot/screenshot3.png">
+</p>
